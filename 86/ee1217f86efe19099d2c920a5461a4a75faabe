@@ -1,0 +1,34 @@
+CLAUDE.md
+  s_7b1f9c8037865b::t_c83947d4631cc0 1-53
+.github/copilot-instructions.md
+  s_7b1f9c8037865b::t_c83947d4631cc0 1-53
+README.md
+  s_7b1f9c8037865b::t_c83947d4631cc0 1-19
+  s_7b1f9c8037865b::t_88c5b616dd0367 20-40
+AGENTS.md
+  s_7b1f9c8037865b::t_c83947d4631cc0 1-38
+  s_7b1f9c8037865b::t_8c3647223f94a0 39-53
+.gitignore
+  s_7b1f9c8037865b::t_d95c57660c7570 1
+TUTOR.md
+  s_7b1f9c8037865b::t_c83947d4631cc0 1-53
+.cursor/rules/tutor.mdc
+  s_7b1f9c8037865b::t_c83947d4631cc0 2-57
+  s_7b1f9c8037865b::t_042345d981a792 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "86ee1217f86efe19099d2c920a5461a4a75faabe",
+  "prompts": {},
+  "sessions": {
+    "s_7b1f9c8037865b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6955a70-c86f-4226-99e3-b367c5a36901",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "stackagen <26490692+stackagen@users.noreply.github.com>"
+    }
+  }
+}
